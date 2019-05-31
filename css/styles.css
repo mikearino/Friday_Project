@@ -8,11 +8,31 @@ img {
   height: auto;
 }
 
+h2 {
+  color: grey;
+}
+
+a {
+  color: black;
+}
+
 ul li a {
-  color: darkred;
+  color: #FFCCFF;
   font-size: 13px;
   font-family: monospace;
   font-weight: bold;
+}
+
+blockquote {
+  color: #FFCCFF;
+}
+
+.panel-body {
+background: #FFCCFF;
+}
+
+.about {
+  color: grey;
 }
 
 .sidebar {
@@ -25,7 +45,7 @@ ul li a {
 }
 
 .synth {
-  color: brown;
+  color: #FFCCFF;
 }
 
 #link {
