@@ -3,17 +3,32 @@ body {
 }
 
 img {
-  border-radius: 10px;
-  width: 60%;
+  border-radius: 20px;
+  width: 100%;
   height: auto;
 }
 
 h2 {
-  color: grey;
+  text-align: center;
+  color: #FFCCFF;
 }
 
 a {
   color: black;
+}
+
+ol{
+  color: grey;
+}
+
+h4{
+  color: grey;
+}
+
+ul {
+ text-align: center;
+ list-style-type: none;
+ color: grey;
 }
 
 ul li a {
@@ -27,12 +42,17 @@ blockquote {
   color: #FFCCFF;
 }
 
+.jumbotron {
+  text-align: center;
+}
+
 .panel-body {
 background: #FFCCFF;
 }
 
 .about {
-  color: grey;
+  text-align: center;
+  color: #lightgrey;
 }
 
 .sidebar {
@@ -45,7 +65,13 @@ background: #FFCCFF;
 }
 
 .synth {
-  color: #FFCCFF;
+  color: white;
+}
+
+.about img {
+  border-radius: 20px;
+  width: 75%;
+  height: auto;
 }
 
 #link {
