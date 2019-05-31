@@ -9,8 +9,15 @@ img {
 }
 
 h2 {
-  text-align: center;
-  color: #FFCCFF;
+  color: grey;
+}
+
+h3 {
+  color: grey;
+}
+
+p {
+  color: grey;
 }
 
 a {
@@ -26,7 +33,6 @@ h4{
 }
 
 ul {
- text-align: center;
  list-style-type: none;
  color: grey;
 }
@@ -50,11 +56,6 @@ blockquote {
 background: #FFCCFF;
 }
 
-.about {
-  text-align: center;
-  color: #lightgrey;
-}
-
 .sidebar {
   float: right;
   border: solid #3a3a3a 3px;
@@ -70,7 +71,7 @@ background: #FFCCFF;
 
 .about img {
   border-radius: 20px;
-  width: 75%;
+  width: 92%;
   height: auto;
 }
 
