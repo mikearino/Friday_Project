@@ -8,28 +8,17 @@ img {
   height: auto;
 }
 
-h2 {
-  color: grey;
+em {
+  font-size: 65px;
+  font-weight: bold;
 }
 
-h3 {
-  color: grey;
-}
-
-p {
+h2, h3, p, ol, h4 {
   color: grey;
 }
 
 a {
   color: black;
-}
-
-ol{
-  color: grey;
-}
-
-h4{
-  color: grey;
 }
 
 ul {
