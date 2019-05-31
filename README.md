@@ -2,7 +2,7 @@
 
 #### Portfolio landing page, 5/31/2019
 
-#### By Mike Lofgren
+#### By Mike Lofgren https://github.com/mikearino
 
 ## Description
 
