@@ -17,6 +17,10 @@ h2, h3, p, ol, h4 {
   color: grey;
 }
 
+li {
+  font-size: 15px
+}
+
 a {
   color: black;
 }
