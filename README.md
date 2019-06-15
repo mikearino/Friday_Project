@@ -2,7 +2,7 @@
 
 #### Portfolio landing page, 5/31/2019
 
-#### By Mike Lofgren https://mikearino.github.io/Friday_Project/
+#### By Mike Lofgren https://mikearino.github.io/Portfolio/
 
 ## Description
 
